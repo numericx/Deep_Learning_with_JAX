@@ -1,8 +1,8 @@
 # "Deep Learning with JAX" book
 
-This is a repository accompanying the "[Deep Learning with JAX](https://www.manning.com/books/deep-learning-with-jax)" book (originally called "JAX in Action"). Feel free to use the promotional code **au35sap** for 35% discount for this book and any other Manning's product.
+This is a repository accompanying the "[Deep Learning with JAX](https://www.manning.com/books/deep-learning-with-jax?a_aid=sapunov&a_cid=2ddfcfe2&chan=mm_github)" book (originally called "JAX in Action"). Feel free to use the promotional code **au35sap** for 35% discount for this book and any other Manning's product.
 
-[![Deep Learning with JAX](Sapunov-MEAP-HI.png)](https://www.manning.com/books/deep-learning-with-jax)
+[![Deep Learning with JAX](Sapunov-MEAP-HI.png)](https://www.manning.com/books/deep-learning-with-jax?a_aid=sapunov&a_cid=2ddfcfe2&chan=mm_github)
 
 Notebooks for the chapters:
 1. [Intro to JAX](Chapter-1)
